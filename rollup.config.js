@@ -1,6 +1,5 @@
 /* eslint-env node */
 import pkg from "./package.json";
-import { terser } from "rollup-plugin-terser";
 import replace from "@rollup/plugin-replace";
 import json from "@rollup/plugin-json";
 
@@ -16,7 +15,6 @@ export default {
       "__cache_name__": `v${+new Date()}`,
       "preventAssignment": true
     }),
-    json(),
-    terser()
+    json()
   ]
 };
