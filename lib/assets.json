@@ -1,0 +1,22 @@
+{
+  "js": [
+    "get-vitals.b90ae4534148729b578eca323dbdb2de.js",
+    "home.d3cc4ba4c521a9dd9507aa45d61e2d98.js",
+    "jquery-colorbox.e0e2588c36ac3faedabad6c0dab17471.js",
+    "jquery.43ca49335b37beda23fe08d906a25ca0.js",
+    "our-process.72327786ef17e9d7f044887489669b55.js",
+    "our-work.200acdfd339299873c5189f3b8ece1d9.js",
+    "scooch.3344e34b049c23a6d3b1876a1f04603f.js",
+    "twitter-fetcher.7b9d61b403485deb14c0951664f48ebf.js"
+  ],
+  "css": [
+    "carousel.1985ad3bb4e3e9420a3577347656fa6d.css",
+    "collapsible.ba2bd95b6601074172314216c077f7c2.css",
+    "colorbox.041f0bfb6823881e896f3fe5a7f7031a.css",
+    "contact-us.5f7964126f8daa8dc0a19fbf7f2a07cf.css",
+    "global.bc7b80b71b6214ede71596314b5298b2.css",
+    "home.fe5d0b23a874cbeedc6435b38ccfb476.css",
+    "our-work.148e2e20a5c6b55bfc05978bb3dda0aa.css",
+    "scooch.7bfadd7428bff8ddfefc4f7c9443af49.css"
+  ]
+}
